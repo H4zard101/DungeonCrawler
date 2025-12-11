@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d60d0fd22e5e09d4b8425b643d592767
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kenney Input PlayStation Series
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c496d46b814ba4a4bb6978bbd417b95d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

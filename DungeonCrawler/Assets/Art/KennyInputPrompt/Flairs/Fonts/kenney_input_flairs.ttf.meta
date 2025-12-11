@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3f06e74e2dd38049b7dc3f9f81664b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kenney Input Flairs
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 720f43d4094fcc740abc0a1c20a30418, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

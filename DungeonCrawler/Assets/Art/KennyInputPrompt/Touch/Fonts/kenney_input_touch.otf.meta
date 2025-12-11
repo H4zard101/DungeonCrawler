@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9c80ec2ec4265f4da8a8bc714c55f8a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kenney Input Touch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 956b7391f1d101b46937363075b84b35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

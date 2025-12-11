@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4e7979ae634f428498126f25b6dc2a66
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kenney Input Steam Controller
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 36dfa5ff057d1504b93747ad19b4554f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
