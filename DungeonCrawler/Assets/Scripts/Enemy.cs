@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
     [Header("Stats")]
     public int maxHealth = 5;
     public int currentHealth = 0;
-
+    public float HealthPercent => (float)currentHealth / Mathf.Max(1, maxHealth);
 
 
     [Header("Objective")]
